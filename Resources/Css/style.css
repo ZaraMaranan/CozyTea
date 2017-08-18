@@ -55,4 +55,32 @@ div .tofthemonth {
   margin-left: -500px;
   position: absolute;
   text-align: center;
+  top: 825px;
+}
+
+
+.featured img{
+  height: 200px;
+  width: 300px;
+}
+#teas1 , #teas2 {
+  justify-content: space-around;
+  display: inline-flex;
+  position: absolute;
+  text-align: center;
+  width: 50%;
+  left: 50%;
+  margin-left: -25%
+}
+#teas1 {
+  top: 990px;
+}
+#teas2 {
+  top: 300px;
+}
+#teas1 img {
+  padding: 0px 20px;
+}
+#teas1 h4 {
+ top: 0;
 }
