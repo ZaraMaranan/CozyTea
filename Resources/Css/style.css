@@ -12,6 +12,7 @@ html {
   top: 0;
   position: fixed;
   border-bottom: 1px solid seashell;
+  z-index:1;
 }
 .logo {
   padding: 10px 9.5px;
@@ -42,6 +43,16 @@ div .content {
   width: 1200px;
   left: 50%;
   margin-left: -600px;
+  position: absolute;
+  text-align: center;
+}
+
+
+div .tofthemonth {
+  background-color: black;
+  width: 1000px;
+  left: 50%;
+  margin-left: -500px;
   position: absolute;
   text-align: center;
 }
