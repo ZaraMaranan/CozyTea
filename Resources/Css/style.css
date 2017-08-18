@@ -68,9 +68,9 @@ div .tofthemonth {
   display: inline-flex;
   position: absolute;
   text-align: center;
-  width: 50%;
+  width: 30%;
   left: 50%;
-  margin-left: -25%
+  margin-left: -15%
 }
 #teas1 {
   top: 990px;
