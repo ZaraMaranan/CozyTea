@@ -84,3 +84,36 @@ div .tofthemonth {
 #teas1 h4 {
  top: 0;
 }
+
+.locations .container{
+text-align: center;
+}
+.locations img {
+  height: 500px;
+  width: 1000px;
+  padding-top: 890px;
+  left: 50%;
+  display: inline-block;
+}
+.locations h2 {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  left: 50%;
+  margin-left: -50%;
+  height: 100%;
+  top: 50%;
+  margin-top: 95%;
+}
+.locations .content {
+  position: absolute;
+  padding-top: 1500px;
+  background: none;
+}
+#downtownbox , #eastbox , #oakdalebox {
+  background: black;
+  width: 300px;
+  display: inline-block;
+  opacity: 1;
+}
