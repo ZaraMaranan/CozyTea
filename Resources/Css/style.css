@@ -116,4 +116,21 @@ text-align: center;
   width: 300px;
   display: inline-block;
   opacity: 1;
+  height: 100%;
+  top: 50%;
+  margin-top: -6%;
+}
+
+
+.contact {
+  text-align: center;
+  height: 200px;
+}
+.contact h5 {
+  line-height: 3;
+}
+
+.footer {
+  text-align: left;
+  padding-left: 20px;
 }
