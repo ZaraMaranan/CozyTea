@@ -96,15 +96,14 @@ text-align: center;
   display: inline-block;
 }
 .locations h2 {
-  position: absolute;
-  display: inline-block;
-  text-align: center;
-  width: 100%;
-  left: 50%;
-  margin-left: -50%;
-  height: 100%;
-  top: 50%;
-  margin-top: 95%;
+text-align: center;
+position: absolute;
+width: 100%;
+left: 50%;
+margin-left: -50%;
+height: 100%;
+top:50%;
+margin-top: 48%;
 }
 .locations .content {
   position: absolute;
